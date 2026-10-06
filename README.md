@@ -30,4 +30,3 @@ LinkedIn: Meu LinkedIn E-mail: joice.barros0703@gmail.com
 
 ✨ Em constante aprendizado, evoluindo conhecimento em projetos e projetos em experiência.
 
-<img width="442" height="638" alt="image" src="https://github.com/user-attachments/assets/5258e87f-8321-475d-ba0d-6b137c047bce" />
