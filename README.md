@@ -9,11 +9,11 @@ Sou estudante de Engenharia de Software, interessada no desenvolvimento de softw
 Meu objetivo é evoluir continuamente como desenvolvedora e construir uma base sólida para atuar profissionalmente na área de tecnologia.
 
 🛠️ Tecnologias e ferramentas em aprendizado:
-💻 Desenvolvimento: Python, C, HTML CSS.
-🗄️ Banco de dados (MySQL) 
-🎨 Design e prototipação Figma
+Desenvolvimento: Python, C, HTML CSS.
+Banco de dados (MySQL) 
+Design e prototipação Figma
 
-🚀 Projetos
+Projetos
 🧹 Hígia
 Projeto de aplicativo voltado para profissionais de limpeza, desenvolvido com foco em praticidade, organização e experiência do usuário.
 Principais objetivos:
@@ -26,7 +26,7 @@ dedicado:
 Tecnologias e ferramentas: Python, HTML, CSS e MySQL.
 
 📫 Contatos:
-💼 LinkedIn: Meu LinkedIn 📧 E-mail: joice.barros0703@gmail.com
+LinkedIn: Meu LinkedIn E-mail: joice.barros0703@gmail.com
 
 ✨ Em constante aprendizado, evoluindo conhecimento em projetos e projetos em experiência.
 
