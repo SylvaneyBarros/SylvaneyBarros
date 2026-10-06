@@ -13,20 +13,7 @@ Desenvolvimento: Python, C, HTML CSS.
 Banco de dados (MySQL) 
 Design e prototipação Figma
 
-Projetos
-🧹 Hígia
-Projeto de aplicativo voltado para profissionais de limpeza, desenvolvido com foco em praticidade, organização e experiência do usuário.
-Principais objetivos:
-Facilitar a contratação de profissionais, melhorar a experiência do usuário, organizar a apresentação dos serviços, criar uma interface simples e intuitiva 
-Tecnologias e ferramentas: Figma, HTML e CSS
-
-🔗 Amalgama
-Projeto desenvolvido durante minha formação, com foco na aplicação prática dos conhecimentos adquiridos ao longo do curso.
-dedicado:
-Tecnologias e ferramentas: Python, HTML, CSS e MySQL.
-
 📫 Contatos:
 LinkedIn: Meu LinkedIn E-mail: joice.barros0703@gmail.com
 
 ✨ Em constante aprendizado, evoluindo conhecimento em projetos e projetos em experiência.
-
